@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Граф навигации приложения. id экранов совпадают с id пунктов меню, поэтому
+     BottomNavigationView и NavigationView работают через setupWithNavController -->
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.lab4mobile.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/parksFragment"
+        android:name="com.example.lab4mobile.ui.category.ParksFragment"
+        android:label="@string/category_parks"
+        tools:layout="@layout/fragment_category" />
+
+    <fragment
+        android:id="@+id/museumsFragment"
+        android:name="com.example.lab4mobile.ui.category.MuseumsFragment"
+        android:label="@string/category_museums"
+        tools:layout="@layout/fragment_category" />
+
+    <fragment
+        android:id="@+id/cafesFragment"
+        android:name="com.example.lab4mobile.ui.category.CafesFragment"
+        android:label="@string/category_cafes"
+        tools:layout="@layout/fragment_category" />
+
+    <fragment
+        android:id="@+id/kidsFragment"
+        android:name="com.example.lab4mobile.ui.category.KidsFragment"
+        android:label="@string/category_kids"
+        tools:layout="@layout/fragment_category" />
+
+    <fragment
+        android:id="@+id/mallsFragment"
+        android:name="com.example.lab4mobile.ui.category.MallsFragment"
+        android:label="@string/category_malls"
+        tools:layout="@layout/fragment_category" />
+
+    <fragment
+        android:id="@+id/placeDetailFragment"
+        android:name="com.example.lab4mobile.ui.detail.PlaceDetailFragment"
+        android:label="@string/place_detail_title"
+        tools:layout="@layout/fragment_place_detail">
+        <!-- id места, передаётся через Safe Args -->
+        <argument
+            android:name="placeId"
+            app:argType="integer" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.example.lab4mobile.ui.about.AboutFragment"
+        android:label="@string/menu_about"
+        tools:layout="@layout/fragment_about" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.lab4mobile.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
+        tools:layout="@layout/fragment_settings" />
+
+    <!-- Глобальный переход к деталям: доступен с экрана любой категории -->
+    <action
+        android:id="@+id/action_global_place_detail"
+        app:destination="@id/placeDetailFragment" />
+
+</navigation>

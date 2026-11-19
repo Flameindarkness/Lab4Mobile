@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Основные цвета приложения -->
+    <color name="app_bar">#FF2E6B57</color>
+    <color name="primary_light_theme">#FF2E6B57</color>
+    <color name="primary_dark_theme">#FF8FD3B6</color>
+
+    <!-- Цвета иллюстраций категорий -->
+    <color name="cat_parks">#FF2E8B57</color>
+    <color name="cat_museums">#FF7B4FA6</color>
+    <color name="cat_cafes">#FF8D5B3E</color>
+    <color name="cat_kids">#FFE0702A</color>
+    <color name="cat_malls">#FF1E6FB8</color>
 </resources>

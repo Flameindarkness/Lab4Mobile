@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Нижняя панель: 4 ключевых раздела -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_menu_home"
+        android:title="@string/menu_home" />
+    <item
+        android:id="@+id/parksFragment"
+        android:icon="@drawable/ic_menu_park"
+        android:title="@string/category_parks" />
+    <item
+        android:id="@+id/museumsFragment"
+        android:icon="@drawable/ic_menu_museum"
+        android:title="@string/category_museums" />
+    <item
+        android:id="@+id/cafesFragment"
+        android:icon="@drawable/ic_menu_cafe"
+        android:title="@string/tab_cafes" />
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="@color/cat_kids"
+        android:pathData="M24,0 A24,24 0 1,1 24,48 A24,24 0 1,1 24,0 Z" />
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M15,18 A9,10 0 1,1 33,18 C33,25 28,29 24,30 C20,29 15,25 15,18 Z" />
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M22,30 L26,30 L24,33 Z" />
+    <path
+        android:pathData="M24,33 C22,35 26,37 24,40"
+        android:strokeColor="@color/white"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="2.5" />
+</vector>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Шапка бокового меню -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/app_bar"
+    android:gravity="bottom"
+    android:minHeight="@dimen/nav_header_height"
+    android:orientation="vertical"
+    android:padding="@dimen/spacing_large">
+
+    <ImageView
+        android:layout_width="@dimen/nav_header_icon_size"
+        android:layout_height="@dimen/nav_header_icon_size"
+        android:importantForAccessibility="no"
+        android:src="@drawable/ic_menu_place"
+        android:tint="@color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/spacing_small"
+        android:text="@string/nav_header_title"
+        android:textAppearance="?attr/textAppearanceHeadlineSmall"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nav_header_subtitle"
+        android:textAppearance="?attr/textAppearanceBodyMedium"
+        android:textColor="@color/white" />
+</LinearLayout>

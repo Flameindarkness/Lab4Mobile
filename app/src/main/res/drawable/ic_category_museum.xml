@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="@color/cat_museums"
+        android:pathData="M24,0 A24,24 0 1,1 24,48 A24,24 0 1,1 24,0 Z" />
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M24,9 L38,17 H10 Z" />
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M13,19 H17 V33 H13 Z M22,19 H26 V33 H22 Z M31,19 H35 V33 H31 Z" />
+    <path
+        android:fillColor="@color/white"
+        android:pathData="M10,35 H38 V39 H10 Z" />
+</vector>

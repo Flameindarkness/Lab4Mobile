@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">Lab4Mobile</string>
+    <string name="app_name">My City: Izhevsk</string>
+
+    <string name="nav_header_title">Izhevsk</string>
+    <string name="nav_header_subtitle">City guide</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="menu_settings">Settings</string>
+    <string name="tab_cafes">Cafés</string>
+
+    <string name="category_parks">Parks</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_cafes">Cafés and coffee shops</string>
+    <string name="category_kids">Places for kids</string>
+    <string name="category_malls">Shopping malls</string>
+
+    <string name="category_parks_description">Walks in the fresh air</string>
+    <string name="category_museums_description">History and culture of Udmurtia</string>
+    <string name="category_cafes_description">Coffee, desserts and local food</string>
+    <string name="category_kids_description">Zoo, circus, theatre and play parks</string>
+    <string name="category_malls_description">Shopping and entertainment</string>
+
+    <string name="place_detail_title">Details</string>
+    <string name="place_address_description">Address</string>
+
+    <string name="settings_dark_theme">Dark theme</string>
+    <string name="settings_dark_theme_summary">The choice is saved and applied on the next launch.</string>
+
+    <string name="about_text">The app recommends places to visit in Izhevsk: parks, museums, cafés, places for kids and shopping malls. Choose a category on the home screen, in the bottom bar or in the side menu, then tap a place to see the details.</string>
+    <string name="about_data_note">Information about places was collected from open sources in November 2026. Please check opening hours before your visit. Illustrations were drawn by the author.</string>
 </resources>

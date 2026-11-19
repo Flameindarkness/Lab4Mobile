@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Тексты о местах Ижевска. Сведения из открытых источников, ноябрь 2026 -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="place_1_name">Летний сад имени М. Горького</string>
+    <string name="place_1_short">Старейший парк города на берегу пруда.</string>
+    <string name="place_1_description">Парк вырос из сада при Генеральском доме — усадьбе командира Ижевского завода, и до революции простые горожане сюда не попадали. Имя Максима Горького сад носит с 1928 года. Сегодня здесь работают колесо обозрения и аттракционы, летом проходят городские праздники, а зимой заливают каток.</string>
+    <string name="place_1_address">ул. Максима Горького, у Ижевского пруда</string>
+
+    <string name="place_2_name">Парк имени С. М. Кирова</string>
+    <string name="place_2_short">Почти настоящий лес в черте города.</string>
+    <string name="place_2_description">Парк заложен в 1933 году. Здесь много деревьев и прогулочных дорожек, есть аттракционы, а в 2023 году на его территории открылся парк динозавров «Динополис». По соседству находится зоопарк.</string>
+    <string name="place_2_address">ул. Кирова, 8а</string>
+
+    <string name="place_3_name">Набережная Ижевского пруда</string>
+    <string name="place_3_short">Длинная прогулочная зона вдоль воды.</string>
+    <string name="place_3_description">Ижевский пруд — одна из главных особенностей города, и набережная тянется вдоль него на большое расстояние. Здесь удобно гулять, кататься на велосипеде и смотреть на закат над водой. С набережной видны многие достопримечательности центра.</string>
+    <string name="place_3_address">центр города</string>
+
+    <string name="place_4_name">Парк «Берёзовая роща»</string>
+    <string name="place_4_short">Тихий парк с берёзами и скульптурами.</string>
+    <string name="place_4_description">Небольшой зелёный парк для спокойных прогулок. Среди его скульптур есть фигура козы: посетители натирают ей мордочку на удачу, поэтому она блестит.</string>
+    <string name="place_4_address">Ижевск</string>
+
+    <string name="place_5_name">Парк «Тишино»</string>
+    <string name="place_5_short">Новый парк в Устиновском районе.</string>
+    <string name="place_5_description">Парк открылся в 2023 году и стал современным местом для прогулок на свежем воздухе. Подходит для неспешных прогулок с семьёй.</string>
+    <string name="place_5_address">Устиновский район</string>
+
+    <string name="place_6_name">Музейно-выставочный комплекс имени М. Т. Калашникова</string>
+    <string name="place_6_short">История стрелкового оружия России.</string>
+    <string name="place_6_description">Комплекс открылся в 2004 году и посвящён оружейному делу и конструктору Михаилу Калашникову. Кроме оружия, здесь показывают необычные бытовые изобретения конструктора, например газонокосилку с мотором от стиральной машины.</string>
+    <string name="place_6_address">ул. Бородина, 19</string>
+
+    <string name="place_7_name">Национальный музей УР имени Кузебая Герда</string>
+    <string name="place_7_short">Главный краеведческий музей Удмуртии.</string>
+    <string name="place_7_description">Музей основан в 1920 году как Ижевский музей местного края, а имя удмуртского поэта Кузебая Герда носит с 2000 года. Основная экспозиция размещается в здании Арсенала, поэтому горожане часто называют музей просто «Арсеналом».</string>
+    <string name="place_7_address">центр города, здание Арсенала</string>
+
+    <string name="place_8_name">Музей завода «Ижмаш»</string>
+    <string name="place_8_short">Музей в старейшем здании города.</string>
+    <string name="place_8_description">Музей находится в самом центре, рядом с монументом оружейникам. Его экспозиция рассказывает историю завода, вокруг которого вырос Ижевск.</string>
+    <string name="place_8_address">центр города, рядом с монументом оружейникам</string>
+
+    <string name="place_9_name">Музей изобразительных искусств Удмуртии</string>
+    <string name="place_9_short">Живопись, графика и скульптура.</string>
+    <string name="place_9_description">В собрании музея работы русских и удмуртских художников, регулярно проходят временные выставки. Хорошее место, чтобы познакомиться с искусством региона.</string>
+    <string name="place_9_address">центр города</string>
+
+    <string name="place_10_name">Музей-заповедник «Лудорвай»</string>
+    <string name="place_10_short">Удмуртская деревня под открытым небом.</string>
+    <string name="place_10_description">Архитектурно-этнографический музей находится примерно в 17 км от Ижевска. Здесь сохранены традиционные постройки и воссоздан быт удмуртского народа, проходят народные праздники и мастер-классы.</string>
+    <string name="place_10_address">около 17 км от Ижевска</string>
+
+    <string name="place_11_name">Кофейня «Кофе Семь»</string>
+    <string name="place_11_short">Кофе, завтраки и десерты.</string>
+    <string name="place_11_description">Одна из известных кофеен города с большим выбором напитков, в том числе фильтр-кофе. Сюда приходят позавтракать и встретиться с друзьями.</string>
+    <string name="place_11_address">ул. Красная, 133</string>
+
+    <string name="place_12_name">Tasty Coffee</string>
+    <string name="place_12_short">Кофейня ижевских обжарщиков.</string>
+    <string name="place_12_description">Ижевская компания Tasty Coffee — одна из крупнейших обжарочных в России, её зёрна используют тысячи кофеен по всей стране. В фирменной кофейне можно попробовать свежую обжарку и купить кофе в пачках.</string>
+    <string name="place_12_address">ул. Советская, 22</string>
+
+    <string name="place_13_name">Кафе Moloko</string>
+    <string name="place_13_short">Кафе-кофейня на Пушкинской.</string>
+    <string name="place_13_description">Уютное кафе в центре города, где можно выпить кофе и перекусить.</string>
+    <string name="place_13_address">ул. Пушкинская, 182</string>
+
+    <string name="place_14_name">Frensis Coffee</string>
+    <string name="place_14_short">Сеть кофеен с десертами.</string>
+    <string name="place_14_description">Кофейни сети работают в нескольких районах города, в том числе в молле «Матрица». В меню кофейные напитки, десерты и выпечка, есть кофе с собой.</string>
+    <string name="place_14_address">ул. Баранова, 87 (молл «Матрица»)</string>
+
+    <string name="place_15_name">«Перепечкин»</string>
+    <string name="place_15_short">Горячие перепечи из дровяной печи.</string>
+    <string name="place_15_description">Перепечи — открытые пирожки, одно из самых известных блюд удмуртской кухни. «Перепечкин» печёт их в дровяных печах, которые стоят в парках города, а ещё привозит на дом.</string>
+    <string name="place_15_address">парки города</string>
+
+    <string name="place_16_name">Зоопарк Удмуртии</string>
+    <string name="place_16_short">Один из самых посещаемых зоопарков России.</string>
+    <string name="place_16_description">Зоопарк открылся в 2008 году на берегу Ижевского пруда в центре города. На территории около 16 гектаров живут сотни животных более чем двухсот видов, а вольеры сделаны похожими на природную среду.</string>
+    <string name="place_16_address">центр города, рядом с парком имени Кирова</string>
+
+    <string name="place_17_name">Цирк Удмуртии</string>
+    <string name="place_17_short">Представления для всей семьи.</string>
+    <string name="place_17_description">Государственный цирк Удмуртии регулярно показывает программы с акробатами, клоунами и дрессированными животными. Цирковые представления в Ижевске начались ещё в конце XIX века с приезжих балаганов.</string>
+    <string name="place_17_address">ул. Красноармейская, 136</string>
+
+    <string name="place_18_name">Театр кукол Удмуртской Республики</string>
+    <string name="place_18_short">Спектакли для самых маленьких.</string>
+    <string name="place_18_description">Театр основан в 1935 году. В репертуаре спектакли для детей разного возраста, а для любопытных проводят экскурсии по театру.</string>
+    <string name="place_18_address">ул. Ломоносова, 9</string>
+
+    <string name="place_19_name">Парк динозавров «Динополис»</string>
+    <string name="place_19_short">Динозавры в парке Кирова.</string>
+    <string name="place_19_description">Парк открылся в 2023 году на территории парка имени Кирова. Дети гуляют среди больших фигур динозавров, а после можно покататься на аттракционах.</string>
+    <string name="place_19_address">ул. Кирова, 8а</string>
+
+    <string name="place_20_name">Детский парк Mango Boom</string>
+    <string name="place_20_short">Крытый игровой парк в «Матрице».</string>
+    <string name="place_20_description">Игровой парк с горками и площадками для активных игр. Здесь же можно отпраздновать день рождения.</string>
+    <string name="place_20_address">ул. Баранова, 87, 2 этаж</string>
+
+    <string name="place_21_name">ТРК «Петровский»</string>
+    <string name="place_21_short">Покупки и развлечения под одной крышей.</string>
+    <string name="place_21_description">Комплекс открылся во второй половине 2000-х годов и одним из первых в городе объединил магазины и развлечения. Здесь, например, есть боулинг.</string>
+    <string name="place_21_address">ул. Петрова, 29</string>
+
+    <string name="place_22_name">ТРЦ «Талисман»</string>
+    <string name="place_22_short">Один из самых популярных торговых центров.</string>
+    <string name="place_22_description">Большой торговый центр с магазинами одежды и косметики и местами, где можно перекусить.</string>
+    <string name="place_22_address">ул. Холмогорова, 11</string>
+
+    <string name="place_23_name">Молл «Матрица»</string>
+    <string name="place_23_short">Торговый центр с детским парком.</string>
+    <string name="place_23_description">В «Матрице» есть магазины одежды и товаров для дома, кафе и детский игровой парк Mango Boom.</string>
+    <string name="place_23_address">ул. Баранова, 87</string>
+
+    <string name="place_24_name">ТЦ «Аксион»</string>
+    <string name="place_24_short">Торговый центр на улице Карла Маркса.</string>
+    <string name="place_24_description">Торговый центр в центральной части города с магазинами разных форматов.</string>
+    <string name="place_24_address">ул. Карла Маркса, 191</string>
+
+    <string name="place_25_name">ТЦ «Флагман»</string>
+    <string name="place_25_short">Торговый центр на Удмуртской улице.</string>
+    <string name="place_25_description">Торговый центр с магазинами и развлекательными площадками.</string>
+    <string name="place_25_address">ул. Удмуртская, 255б</string>
+</resources>
