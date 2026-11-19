@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Боковое меню: все категории, «О приложении» и «Настройки» -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group_categories"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/homeFragment"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/parksFragment"
+            android:icon="@drawable/ic_menu_park"
+            android:title="@string/category_parks" />
+        <item
+            android:id="@+id/museumsFragment"
+            android:icon="@drawable/ic_menu_museum"
+            android:title="@string/category_museums" />
+        <item
+            android:id="@+id/cafesFragment"
+            android:icon="@drawable/ic_menu_cafe"
+            android:title="@string/category_cafes" />
+        <item
+            android:id="@+id/kidsFragment"
+            android:icon="@drawable/ic_menu_kids"
+            android:title="@string/category_kids" />
+        <item
+            android:id="@+id/mallsFragment"
+            android:icon="@drawable/ic_menu_mall"
+            android:title="@string/category_malls" />
+    </group>
+    <group
+        android:id="@+id/group_other"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/aboutFragment"
+            android:icon="@drawable/ic_menu_info"
+            android:title="@string/menu_about" />
+        <item
+            android:id="@+id/settingsFragment"
+            android:icon="@drawable/ic_menu_settings"
+            android:title="@string/menu_settings" />
+    </group>
+</menu>

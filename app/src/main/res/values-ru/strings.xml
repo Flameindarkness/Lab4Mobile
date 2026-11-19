@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Мой город: Ижевск</string>
+
+    <string name="nav_header_title">Ижевск</string>
+    <string name="nav_header_subtitle">Путеводитель по городу</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="tab_cafes">Кафе</string>
+
+    <string name="category_parks">Парки</string>
+    <string name="category_museums">Музеи</string>
+    <string name="category_cafes">Кафе и кофейни</string>
+    <string name="category_kids">Места для детей</string>
+    <string name="category_malls">Торговые центры</string>
+
+    <string name="category_parks_description">Прогулки на свежем воздухе</string>
+    <string name="category_museums_description">История и культура Удмуртии</string>
+    <string name="category_cafes_description">Кофе, десерты и местная кухня</string>
+    <string name="category_kids_description">Зоопарк, цирк, театр и игровые парки</string>
+    <string name="category_malls_description">Покупки и развлечения</string>
+
+    <string name="place_detail_title">Подробности</string>
+    <string name="place_address_description">Адрес</string>
+
+    <string name="settings_dark_theme">Тёмная тема</string>
+    <string name="settings_dark_theme_summary">Выбор сохраняется и применяется при следующем запуске.</string>
+
+    <string name="about_text">Приложение подсказывает, куда сходить в Ижевске: парки, музеи, кафе, места для детей и торговые центры. Выберите категорию на главном экране, в нижней панели или в боковом меню, затем нажмите на место, чтобы увидеть подробности.</string>
+    <string name="about_data_note">Сведения о местах собраны из открытых источников в ноябре 2026 года. Перед посещением уточняйте часы работы. Иллюстрации нарисованы автором.</string>
+</resources>
